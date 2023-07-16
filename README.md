@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![박소영 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=sso_yon&show_icons=true&theme=transparent)
+![박소영 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=sso-yon&show_icons=true&theme=transparent)
 
 # 💪Skills
 ### Platforms & Languages
